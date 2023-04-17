@@ -2,11 +2,12 @@ body{
     background-color: rgba(114, 89, 255, 0.2);
 }
 
-
+ 
 .barnav{
     background-color: rebeccapurple;
     height: 50px;
     box-shadow: rgb(102, 51, 153,0.5) 14px 14px 14px 14px;
+    padding-right: 120px;
 }
 
 
