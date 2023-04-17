@@ -74,6 +74,7 @@ body{
 .mainContent h2{
     color: orange;
     font-size: 36;
+    letter-spacing: 6px;
 }
 
 .mainContent h2:hover{
